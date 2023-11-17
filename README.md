@@ -1,7 +1,5 @@
-[catching magical waves using steel rods](https://steelrods.hashnode.dev/)
-
-<p align="left">
-<a href="https://dev.to/lnahrf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="lnahrf" height="30" width="40" /></a>
-<a href="https://hashnode.com/@lnahrf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@lnahrf" height="30" width="40" /></a>
-</p>
-<p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lnahrf&" alt="lnahrf" /> <br/> <br/> <img align="center" src="https://github-readme-stats.vercel.app/api?username=lnahrf&show_icons=true&locale=en" alt="lnahrf" /></p>
+### Technical Blog
+[![catching magical waves using steel rods](https://cdn.hashnode.com/res/hashnode/image/upload/v1699908299640/mBBClxYZy.png?w=250&fit=crop&crop=entropy&auto=compress,format&format=webp)](https://steelrods.hashnode.dev/)
+### Contact
+> [DEV.TO](https://dev.to/lnahrf)
+> [HASHNODE.COM](https://hashnode.com/@lnahrf)
